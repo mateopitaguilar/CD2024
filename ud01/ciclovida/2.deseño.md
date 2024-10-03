@@ -1,0 +1,2 @@
+- Crear unha clase Suma.java
+- Todo o codigo no metodo main
