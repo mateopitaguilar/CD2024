@@ -10,3 +10,7 @@ Hacer Commit
 
     git commit -m "Mensaje commit"
 
+Añadir todos los cambios de la carpeta
+
+    git add .
+
