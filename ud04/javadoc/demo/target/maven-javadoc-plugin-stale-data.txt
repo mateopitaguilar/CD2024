@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Mateo/Desktop/CLASE/CONTORNOS/CD2024/ud04/javadoc/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Mateo/Desktop/CLASE/CONTORNOS/CD2024/ud04/javadoc/demo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Mateo/Desktop/CLASE/CONTORNOS/CD2024/ud04/javadoc/demo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.mateopa
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\src\main\java = 1743108891011
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\allclasses-index.html = 1743109553479
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\allpackages-index.html = 1743109553483
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\element-list = 1743109553430
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\help-doc.html = 1743109553524
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\index-all.html = 1743109553506
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\index.html = 1743109553515
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\member-search-index.js = 1743109553491
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\module-search-index.js = 1743109553485
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\overview-tree.html = 1743109553466
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\package-search-index.js = 1743109553487
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\search.html = 1743109553511
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\tag-search-index.js = 1743109553493
+C:\Users\Mateo\Desktop\CLASE\CONTORNOS\CD2024\ud04\javadoc\demo\target\reports\apidocs\type-search-index.js = 1743109553489
