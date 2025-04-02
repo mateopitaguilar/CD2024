@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.mateopa
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/src/main/java = 1743577444082
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/type-search-index.js = 1743580747485
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/element-list = 1743580747445
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/allclasses-index.html = 1743580747483
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/search-page.js = 1743580747528
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/script.js = 1743580747523
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/stylesheet.css = 1743580747522
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/overview-tree.html = 1743580747469
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/index-all.html = 1743580747500
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/search.html = 1743580747501
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/index.html = 1743580747502
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/package-search-index.js = 1743580747485
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/help-doc.html = 1743580747505
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/search.js = 1743580747527
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/member-search-index.js = 1743580747485
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/allpackages-index.html = 1743580747483
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/copy.svg = 1743580747524
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/module-search-index.js = 1743580747485
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/link.svg = 1743580747524
+/home/vagrant/Desktop/CD2024/ud04/ejer2/demo/target/reports/apidocs/tag-search-index.js = 1743580747485
